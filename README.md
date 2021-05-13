@@ -1,11 +1,3 @@
 # Voting-app
-All members are requested to Fill there log files 
 
-
-101918004
-	
-101918005
-
-101918013
-
-101918017
+This is Blockchain Based online voting system which first use facial recogontion to login and use blockchain to connect each block
